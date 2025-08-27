@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Register = () => {
   return (
@@ -7,3 +7,4 @@ const Register = () => {
 }
 
 export default Register
+
